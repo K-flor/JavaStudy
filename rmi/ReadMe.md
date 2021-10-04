@@ -13,3 +13,6 @@
       
 4. AddClient class     
   client 컴퓨터에서 실행. AddServer가 server 컴퓨터에서 실행되고 있는 동안에 AddClient를 통해 작업을 요청할 수 있다.      
+  
+
+* serial2 의 경우 객체를 전달하는 목적의 RMI 프로그램으로, serialize class를 추가하였다.    
